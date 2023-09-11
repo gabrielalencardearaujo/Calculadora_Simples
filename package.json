@@ -1,0 +1,21 @@
+{
+  "name": "CalculadoraSimples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^8.4.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.6.0"
+  }
+}
