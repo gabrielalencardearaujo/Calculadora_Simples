@@ -41,11 +41,11 @@
     7 - 103
     8 - 104
     9 - 105
-    divsao - 111
     multi - 106
-    menos - 109
     adicao - 107
+    menos - 109
     ponto - 110
+    divsao - 111
     enter - 13
     backspace - 8
     virgula - 108
